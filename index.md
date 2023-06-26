@@ -33,8 +33,8 @@ var V3_root = 'wavs/V3-0626'
     </tr>
     </thead>
 
-    <thbody>
-    </thbody>
+    <tbody>
+    </tbody>
   
     <tr>
       <th style="text-align: left"><strong>una</strong></th>
@@ -50,6 +50,48 @@ var V3_root = 'wavs/V3-0626'
   
 </table>
 
+// 写入
+var tbody = document.querySelector('tbody'); //找到tbody标签
+for (var i = 0; i < speaker.length; i++) {
+  var tr = document.createElement('tr'); //添加tr块
+  tbody.appendChild(tr);
+
+  var td = document.createElement('td');  //创建td块
+  
+}
+
+
+<style>
+
+        table th {
+
+            width: 100px;
+
+            height: 50px;
+
+            border: 1px solid black;
+
+        }
+
+        td {
+
+            color: green;
+
+            text-align: center;
+
+            border: 1px solid black;
+
+            font-size: 18px;
+
+        }
+
+        .del{
+
+            cursor: pointer;
+
+        }
+
+    </style>
 
 
 
