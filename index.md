@@ -12,6 +12,7 @@
 <h2>Contents</h2>
 <ol>
   <li><a href="#samples-seen">V2 和 V3 对比</a></li>
+  <li><a href="#samples-seen">V3其他说话人</a></li>
 
 </ol>
 
@@ -19,11 +20,7 @@
 <h3> 只使用第一期数据 </h3>
 <h4> 文本</h4>
 
-<!--定义说话人和地址-->
-var speaker = ['una','chenqingxin','yequmeng','zhuwen','zhuhao','gulei','eason','yinge']
-var V2_root = 'wavs/V2-0626'
-var V3_root = 'wavs/V3-0626'
-
+<h4>第一期选中的8个人音色对比</h4>
 <table>
     <thead>
     <tr>
@@ -33,9 +30,7 @@ var V3_root = 'wavs/V3-0626'
     </tr>
     </thead>
 
-    <tbody>
-    </tbody>
-  
+    //女生
     <tr>
       <th style="text-align: left"><strong>una</strong></th>
       <td style="text-align: left"><audio src="wavs\V2-0626\una.wav" controls="" preload=""></audio></td>
@@ -47,176 +42,142 @@ var V3_root = 'wavs/V3-0626'
       <td style="text-align: left"><audio src="wavs\V2-0626\chenqingxin.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_chenqingxin_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
+
+     <tr>
+      <th style="text-align: left"><strong>yequmeng</strong></th>
+      <td style="text-align: left"><audio src="wavs\V2-0626\yequmeng.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_yequmeng_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+     <tr>
+      <th style="text-align: left"><strong>zhuwen</strong></th>
+      <td style="text-align: left"><audio src="wavs\V2-0626\zhuwen.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_zhuwen_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    //男生
+    <tr>
+      <th style="text-align: left"><strong>zhuhao</strong></th>
+      <td style="text-align: left"><audio src="wavs\V2-0626\zhuhao.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_zhuhao_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>eason</strong></th>
+      <td style="text-align: left"><audio src="wavs\V2-0626\eason.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_eason_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>yinge</strong></th>
+      <td style="text-align: left"><audio src="wavs\V2-0626\yinge.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_yinge_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
+    
+    <tr>
+      <th style="text-align: left"><strong>gulei</strong></th>
+      <td style="text-align: left"><audio src="wavs\V2-0626\gulei.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_gulei_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
+    
   
 </table>
 
-// 写入
-var tbody = document.querySelector('tbody'); //找到tbody标签
-for (var i = 0; i < speaker.length; i++) {
-  var tr = document.createElement('tr'); //添加tr块
-  tbody.appendChild(tr);
 
-  var td = document.createElement('td');  //创建td块
-  
-}
-
-
-<style>
-
-        table th {
-
-            width: 100px;
-
-            height: 50px;
-
-            border: 1px solid black;
-
-        }
-
-        td {
-
-            color: green;
-
-            text-align: center;
-
-            border: 1px solid black;
-
-            font-size: 18px;
-
-        }
-
-        .del{
-
-            cursor: pointer;
-
-        }
-
-    </style>
-
-
-
+<h2>其他说话人-V3效果<a name="V3-others"></a></h2>
 <table>
-            <thead>
+    <thead>
+    <tr>
+      <th style="text-align: left">Speakers</th>
+      <td style="text-align: left">V2</td>
+      <td style="text-align: left">V3</td>
+    </tr>
+    </thead>
 
-                <tr>
+    //女生
+    <tr>
+      <th style="text-align: left"><strong>bairufei</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_bairufei_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
 
-                    <th>姓名</th>
+    <tr>
+      <th style="text-align: left"><strong>chenjunyan</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_chenjunyan_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
 
-                    <th>语言</th>
+     <tr>
+      <th style="text-align: left"><strong>guoyaqiao</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_guoyaqiao_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
 
-                    <th>分数</th>
+     <tr>
+      <th style="text-align: left"><strong>liyingying</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_liyingying_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
 
-                    <th>操作</th>
+     <tr>
+      <th style="text-align: left"><strong>jiangjiamei</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_jiangjiamei_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
 
-                </tr>
+    <tr>
+      <th style="text-align: left"><strong>miki</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_miki_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
 
-            </thead>
+    <tr>
+      <th style="text-align: left"><strong>sunziqin</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_sunziqin_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
 
-            <tbody></tbody>
+    <tr>
+      <th style="text-align: left"><strong>wuxiangzhen</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_wuxiangzhen_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
 
-        </table>
+    <tr>
+      <th style="text-align: left"><strong>yusiyu</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_yusiyu_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
 
-
-       
-
-       
-
-        var stus = [{ //假数据
-
-            name: '小明',
-
-            class: 'JavaScript',
-
-            score: 100
-
-        }, {
-
-            name: '小红',
-
-            class: 'JavaScript',
-
-            score: 98
-
-        }, {
-
-            name: '小白',
-
-            class: 'JavaScript',
-
-            score: 89
-
-        }, {
-
-            name: '小石',
-
-            class: 'JavaScript',
-
-            score: 85
-
-        }, {
-
-            name: '小石',
-
-            class: 'JavaScript',
-
-            score: 85
-
-        }];
-
-       
-
-        //数据写入
-
-        var tbody = document.querySelector('tbody'); //找到tbody标签
-
-        for (var i = 0; i < stus.length; i++) { //对stus进行循环遍历，并建立tr标签
-
-            var tr = document.createElement('tr');
-
-            tbody.appendChild(tr);
-
-            for (var k in stus[i]) { //对假数据进行遍历
-
-                var td = document.createElement('td'); //新建td
-
-                td.innerHTML = stus[i][k]; //将对象数据写进td中
-
-                tr.appendChild(td);
-
-            }
-
-            //删除按钮的建立  
-
-            var td = document.createElement('td');
-
-            td.innerHTML = '删除';
-
-            td.className = 'del'
-
-            tr.appendChild(td);
-
-        }
-
-       
-
-       
-
-        //对'删除'进行点击事件    
-
-        var delClick = document.getElementsByClassName('del');
-
-        for (var i = 0; i < delClick.length; i++) {
-
-            delClick[i].onclick = function () {
-
-                tbody.removeChild(this.parentNode);    
-
-            }
-
+    <tr>
+      <th style="text-align: left"><strong>zhangjingyan</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_zhangjingyan_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
     
+    //男生
+    <tr>
+      <th style="text-align: left"><strong>bojinyan</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_bojinyan_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
 
+    <tr>
+      <th style="text-align: left"><strong>dengchuheng</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_dengchuheng_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
 
+    <tr>
+      <th style="text-align: left"><strong>huangyu</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_huangyu_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
+    
+    <tr>
+      <th style="text-align: left"><strong>huzhichao</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_huzhichao_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
 
+    <tr>
+      <th style="text-align: left"><strong>licantao</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_licantao_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>qiuheng</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_qiuheng_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
+    
+  
+</table>
     
     
 
