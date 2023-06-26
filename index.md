@@ -29,7 +29,13 @@
     <tr>
       <th style="text-align: left"><strong>una</strong></th>
       <td style="text-align: left"><audio src="wavs\V2-0626\una.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_chenjunyan_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_una_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>chenqingxin</strong></th>
+      <td style="text-align: left"><audio src="wavs\V2-0626\chenqingxin.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_chenqingxin_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
   
    
