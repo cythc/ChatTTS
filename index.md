@@ -37,7 +37,7 @@
     </tr>
     </thead>
 
-    //女生
+    <!--女生-->
     <tr>
       <th style="text-align: left"><strong>una</strong></th>
       <td style="text-align: left"><audio src="wavs\V2-0626\una.wav" controls="" preload=""></audio></td>
@@ -62,7 +62,7 @@
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_zhuwen_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
-    //男生
+    <!--男生-->
     <tr>
       <th style="text-align: left"><strong>zhuhao</strong></th>
       <td style="text-align: left"><audio src="wavs\V2-0626\zhuhao.wav" controls="" preload=""></audio></td>
@@ -90,7 +90,7 @@
   
 </table>
 
-//--------------------------------------------------------------------------------------
+<!--｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜-->
 <h2>其他说话人-V3效果<a name="V3-others"></a></h2>
 <table>
     <thead>
@@ -100,7 +100,7 @@
     </tr>
     </thead>
 
-    //女生
+    <!--女生-->
     <tr>
       <th style="text-align: left"><strong>bairufei</strong></th>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_bairufei_kouyu.mp3" controls="" preload=""></audio></td>
@@ -151,7 +151,7 @@
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_zhangjingyan_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
     
-    //男生
+    <!--男生-->
     <tr>
       <th style="text-align: left"><strong>bojinyan</strong></th>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_bojinyan_kouyu.mp3" controls="" preload=""></audio></td>
