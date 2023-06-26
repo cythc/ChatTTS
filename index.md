@@ -38,8 +38,128 @@
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_chenqingxin_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
   
-   
 </table>
+
+
+<table>
+            <thead>
+
+                <tr>
+
+                    <th>姓名</th>
+
+                    <th>语言</th>
+
+                    <th>分数</th>
+
+                    <th>操作</th>
+
+                </tr>
+
+            </thead>
+
+            <tbody></tbody>
+
+        </table>
+
+   <script>
+
+       
+
+       
+
+        var stus = [{ //假数据
+
+            name: '小明',
+
+            class: 'JavaScript',
+
+            score: 100
+
+        }, {
+
+            name: '小红',
+
+            class: 'JavaScript',
+
+            score: 98
+
+        }, {
+
+            name: '小白',
+
+            class: 'JavaScript',
+
+            score: 89
+
+        }, {
+
+            name: '小石',
+
+            class: 'JavaScript',
+
+            score: 85
+
+        }, {
+
+            name: '小石',
+
+            class: 'JavaScript',
+
+            score: 85
+
+        }];
+
+       
+
+        //数据写入
+
+        var tbody = document.querySelector('tbody'); //找到tbody标签
+
+        for (var i = 0; i < stus.length; i++) { //对stus进行循环遍历，并建立tr标签
+
+            var tr = document.createElement('tr');
+
+            tbody.appendChild(tr);
+
+            for (var k in stus[i]) { //对假数据进行遍历
+
+                var td = document.createElement('td'); //新建td
+
+                td.innerHTML = stus[i][k]; //将对象数据写进td中
+
+                tr.appendChild(td);
+
+            }
+
+            //删除按钮的建立  
+
+            var td = document.createElement('td');
+
+            td.innerHTML = '删除';
+
+            td.className = 'del'
+
+            tr.appendChild(td);
+
+        }
+
+       
+
+       
+
+        //对'删除'进行点击事件    
+
+        var delClick = document.getElementsByClassName('del');
+
+        for (var i = 0; i < delClick.length; i++) {
+
+            delClick[i].onclick = function () {
+
+                tbody.removeChild(this.parentNode);    
+
+            }
+
     
 
 
