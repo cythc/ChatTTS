@@ -19,12 +19,22 @@
 <h3> 只使用第一期数据 </h3>
 <h4> 文本</h4>
 
+<!--定义说话人和地址-->
+var speaker = ['una','chenqingxin','yequmeng','zhuwen','zhuhao','gulei','eason','yinge']
+var V2_root = 'wavs/V2-0626'
+var V3_root = 'wavs/V3-0626'
+
 <table>
+    <thead>
     <tr>
       <th style="text-align: left">Speakers</th>
       <td style="text-align: left">V2</td>
       <td style="text-align: left">V3</td>
     </tr>
+    </thead>
+
+    <thbody>
+    </thbody>
   
     <tr>
       <th style="text-align: left"><strong>una</strong></th>
@@ -39,6 +49,8 @@
     </tr>
   
 </table>
+
+
 
 
 <table>
@@ -62,7 +74,6 @@
 
         </table>
 
-   <script>
 
        
 
