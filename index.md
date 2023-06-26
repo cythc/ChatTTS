@@ -38,50 +38,50 @@ hi,你好！很高兴在这里见到你 <br />
 
     <!--女生-->
     <tr>
-      <th style="text-align: left"><strong>una</strong></th>
+      <th style="text-align: left"><strong>una(F)</strong></th>
       <td style="text-align: left"><audio src="wavs\V2-0626\una.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_una_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
-      <th style="text-align: left"><strong>chenqingxin</strong></th>
+      <th style="text-align: left"><strong>chenqingxin(F)</strong></th>
       <td style="text-align: left"><audio src="wavs\V2-0626\chenqingxin.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_chenqingxin_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
      <tr>
-      <th style="text-align: left"><strong>yequmeng</strong></th>
+      <th style="text-align: left"><strong>yequmeng(F)</strong></th>
       <td style="text-align: left"><audio src="wavs\V2-0626\yequmeng.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_yequmeng_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
      <tr>
-      <th style="text-align: left"><strong>zhuwen</strong></th>
+      <th style="text-align: left"><strong>zhuwen(F)</strong></th>
       <td style="text-align: left"><audio src="wavs\V2-0626\zhuwen.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_zhuwen_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <!--男生-->
     <tr>
-      <th style="text-align: left"><strong>zhuhao</strong></th>
+      <th style="text-align: left"><strong>zhuhao(M)</strong></th>
       <td style="text-align: left"><audio src="wavs\V2-0626\zhuhao.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_zhuhao_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
-      <th style="text-align: left"><strong>eason</strong></th>
+      <th style="text-align: left"><strong>eason(M)</strong></th>
       <td style="text-align: left"><audio src="wavs\V2-0626\eason.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_eason_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
-      <th style="text-align: left"><strong>yinge</strong></th>
+      <th style="text-align: left"><strong>yinge(M)</strong></th>
       <td style="text-align: left"><audio src="wavs\V2-0626\yinge.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_yinge_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
     
     <tr>
-      <th style="text-align: left"><strong>gulei</strong></th>
+      <th style="text-align: left"><strong>gulei(M)</strong></th>
       <td style="text-align: left"><audio src="wavs\V2-0626\gulei.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_gulei_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
@@ -109,83 +109,83 @@ hi,你好！很高兴在这里见到你 <br />
 
     <!--女生-->
     <tr>
-      <th style="text-align: left"><strong>bairufei</strong></th>
+      <th style="text-align: left"><strong>bairufei(F)</strong></th>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_bairufei_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
-      <th style="text-align: left"><strong>chenjunyan</strong></th>
+      <th style="text-align: left"><strong>chenjunyan(F)</strong></th>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_chenjunyan_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
      <tr>
-      <th style="text-align: left"><strong>guoyaqiao</strong></th>
+      <th style="text-align: left"><strong>guoyaqiao(F)</strong></th>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_guoyaqiao_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
      <tr>
-      <th style="text-align: left"><strong>liyingying</strong></th>
+      <th style="text-align: left"><strong>liyingying(F)</strong></th>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_liyingying_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
      <tr>
-      <th style="text-align: left"><strong>jiangjiamei</strong></th>
+      <th style="text-align: left"><strong>jiangjiamei(F)</strong></th>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_jiangjiamei_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
-      <th style="text-align: left"><strong>miki</strong></th>
+      <th style="text-align: left"><strong>miki(F)</strong></th>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_miki_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
-      <th style="text-align: left"><strong>sunziqin</strong></th>
+      <th style="text-align: left"><strong>sunziqin(F)</strong></th>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_sunziqin_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
-      <th style="text-align: left"><strong>wuxiangzhen</strong></th>
+      <th style="text-align: left"><strong>wuxiangzhen(F)</strong></th>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_wuxiangzhen_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
-      <th style="text-align: left"><strong>yusiyu</strong></th>
+      <th style="text-align: left"><strong>yusiyu(F)</strong></th>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_yusiyu_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
-      <th style="text-align: left"><strong>zhangjingyan</strong></th>
+      <th style="text-align: left"><strong>zhangjingyan(F)</strong></th>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_zhangjingyan_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
     
     <!--男生-->
     <tr>
-      <th style="text-align: left"><strong>bojinyan</strong></th>
+      <th style="text-align: left"><strong>bojinyan(M)</strong></th>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_bojinyan_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
-      <th style="text-align: left"><strong>dengchuheng</strong></th>
+      <th style="text-align: left"><strong>dengchuheng(M)</strong></th>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_dengchuheng_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
-      <th style="text-align: left"><strong>huangyu</strong></th>
+      <th style="text-align: left"><strong>huangyu(M)</strong></th>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_huangyu_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
     
     <tr>
-      <th style="text-align: left"><strong>huzhichao</strong></th>
+      <th style="text-align: left"><strong>huzhichao(M)</strong></th>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_huzhichao_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
-      <th style="text-align: left"><strong>licantao</strong></th>
+      <th style="text-align: left"><strong>licantao(M)</strong></th>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_licantao_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
-      <th style="text-align: left"><strong>qiuheng</strong></th>
+      <th style="text-align: left"><strong>qiuheng(M)</strong></th>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_qiuheng_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
     
