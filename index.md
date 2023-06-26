@@ -11,7 +11,7 @@
 
 <h2>Contents</h2>
 <ol>
-  <li><a href="#samples-seen">V2和V3-第一期对比</a></li>
+  <li><a href="#samples-seen">V2 和 V3 对比</a></li>
 
 </ol>
 
