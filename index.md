@@ -12,8 +12,8 @@
 <h2>Contents</h2>
 <ol>
   <li><a href="#samples-seen">V2 和 V3 对比——只使用第一期数据</a></li>
-  <li><a href="#samples-seen">V3其他说话人——只使用第一期数据</a></li>
-
+  <li><a href="#V3-others">V3其他说话人——只使用第一期数据</a></li>
+   <li><a href="#V3-mix">V3其他说话人——只使用第一期数据</a></li>
 </ol>
 
 <h2>V2 和 V3 对比——只使用第一期数据 （15min/spk）<a name="samples-seen"></a></h2>
@@ -194,8 +194,27 @@ hi,你好！很高兴在这里见到你 <br />
     
   
 </table>
-    
-    
+
+
+<h2>V3 捏音色<a name="V3-mix"></a></h2>
+<table>
+    <thead>
+    <tr>
+      <th style="text-align: left">混合比例</th>
+      <th style="text-align: left">Speakers1</th>
+      <th style="text-align: left">Speakers2</th>
+      <td style="text-align: left">混合</td>
+    </tr>
+    </thead>
+
+    <tr>
+      <th style="text-align: left"><strong>0.2*Una(F) + 0.8*zhuwen(F)</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_una_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_zhuwen_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-mix-0628\v3mix_bojinyan_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
+  
+</table>
 
   </body>
 </html>
