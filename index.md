@@ -13,7 +13,7 @@
 <ol>
   <li><a href="#samples-seen">V2 和 V3 对比——只使用第一期数据</a></li>
   <li><a href="#V3-others">V3其他说话人——只使用第一期数据</a></li>
-   <li><a href="#V3-mix">V3其他说话人——只使用第一期数据</a></li>
+   <li><a href="#V3-mix">V3捏音色</a></li>
 </ol>
 
 <h2>V2 和 V3 对比——只使用第一期数据 （15min/spk）<a name="samples-seen"></a></h2>
@@ -284,22 +284,20 @@ hi,你好！很高兴在这里见到你 <br />
   
       <tr>
         <th style="text-align: left"><strong>0.2*chenqingxin(F) + 0.8*eason(F)</strong></th>
-        <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_chenqingxin_kouyu.mp3" controls="" preload="" width="100"></audio></td>
-        <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_eason_kouyu.mp3" controls="" preload="" width="100"></audio></td>
+        <td rowspan="3" style="text-align: left"><audio src="wavs\V3-0626\v3mix_chenqingxin_kouyu.mp3" controls="" preload="" width="100"></audio></td>
+        <td rowspan="3" style="text-align: left"><audio src="wavs\V3-0626\v3mix_eason_kouyu.mp3" controls="" preload="" width="100"></audio></td>
         <td style="text-align: left"><audio src="wavs\V3-mix-0628\v3mix_chenqingxin0.2_eason0.8_kouyu.mp3" controls="" preload="" width="100"></audio></td>
       </tr>
   
       <tr>
         <th style="text-align: left"><strong>0.5*chenqingxin(F) + 0.5*eason(F)</strong></th>
-        <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_chenqingxin_kouyu.mp3" controls="" preload="" width="100"></audio></td>
-        <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_eason_kouyu.mp3" controls="" preload="" width="100"></audio></td>
+        
         <td style="text-align: left"><audio src="wavs\V3-mix-0628\v3mix_chenqingxin0.5_eason0.5_kouyu.mp3" controls="" preload="" width="100"></audio></td>
       </tr>
   
       <tr>
         <th style="text-align: left"><strong>0.8*chenqingxin(F) + 0.2*eason(F)</strong></th>
-        <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_chenqingxin_kouyu.mp3" controls="" preload="" width="100"></audio></td>
-        <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_eason_kouyu.mp3" controls="" preload=""  width="100"></audio></td>
+       
         <td style="text-align: left"><audio src="wavs\V3-mix-0628\v3mix_chenqingxin0.8_eason0.2_kouyu.mp3" controls="" preload="" width="100"></audio></td>
       </tr>
   
