@@ -247,22 +247,20 @@ hi,你好！很高兴在这里见到你 <br />
 
     <tr>
       <th style="text-align: left"><strong>0.2*gulei(F) + 0.8*yinge(F)</strong></th>
-      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_gulei_kouyu.mp3" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_yinge_kouyu.mp3" controls="" preload=""></audio></td>
+      <td rowspan="3" style="text-align: left"><audio src="wavs\V3-0626\v3mix_gulei_kouyu.mp3" controls="" preload=""></audio></td>
+      <td rowspan="3" style="text-align: left"><audio src="wavs\V3-0626\v3mix_yinge_kouyu.mp3" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\V3-mix-0628\v3mix_gulei0.2_yinge0.8_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
 
    <tr>
       <th style="text-align: left"><strong>0.5*gulei(F) + 0.5*yinge(F)</strong></th>
-      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_gulei_kouyu.mp3" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_yinge_kouyu.mp3" controls="" preload=""></audio></td>
+      
       <td style="text-align: left"><audio src="wavs\V3-mix-0628\v3mix_gulei0.5_yinge0.5_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
     
     <tr>
       <th style="text-align: left"><strong>0.8*gulei(F) + 0.2*yinge(F)</strong></th>
-      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_gulei_kouyu.mp3" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_yinge_kouyu.mp3" controls="" preload=""></audio></td>
+      
       <td style="text-align: left"><audio src="wavs\V3-mix-0628\v3mix_gulei0.8_yinge0.2_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
   
