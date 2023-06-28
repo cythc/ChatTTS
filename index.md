@@ -197,12 +197,13 @@ hi,你好！很高兴在这里见到你 <br />
 
 
 <h2>V3 捏音色<a name="V3-mix"></a></h2>
+<h3> 女生混合</h3>
 <table>
     <thead>
     <tr>
       <th style="text-align: left">混合比例</th>
-      <th style="text-align: left">Speakers1</th>
-      <th style="text-align: left">Speakers2</th>
+      <th style="text-align: left">una</th>
+      <th style="text-align: left">zhuwen</th>
       <td style="text-align: left">混合</td>
     </tr>
     </thead>
@@ -211,10 +212,95 @@ hi,你好！很高兴在这里见到你 <br />
       <th style="text-align: left"><strong>0.2*Una(F) + 0.8*zhuwen(F)</strong></th>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_una_kouyu.mp3" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_zhuwen_kouyu.mp3" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\V3-mix-0628\v3mix_bojinyan_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-mix-0628\v3mix_una0.2_zhuwen0.8_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>0.5*Una(F) + 0.5*zhuwen(F)</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_una_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_zhuwen_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-mix-0628\v3mix_una0.5_zhuwen0.5_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>0.8*Una(F) + 0.2*zhuwen(F)</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_una_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_zhuwen_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-mix-0628\v3mix_una0.8_zhuwen0.2_kouyu.mp3" controls="" preload=""></audio></td>
     </tr>
   
 </table>
+
+<h3> 男声混合</h3>
+<table>
+    <thead>
+    <tr>
+      <th style="text-align: left">混合比例</th>
+      <th style="text-align: left">gulei</th>
+      <th style="text-align: left">yinge</th>
+      <td style="text-align: left">混合</td>
+    </tr>
+    </thead>
+
+    <tr>
+      <th style="text-align: left"><strong>0.2*gulei(F) + 0.8*yinge(F)</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_gulei_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_yinge_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-mix-0628\v3mix_gulei0.2_yinge0.8_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+   <tr>
+      <th style="text-align: left"><strong>0.5*gulei(F) + 0.5*yinge(F)</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_gulei_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_yinge_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-mix-0628\v3mix_gulei0.5_yinge0.5_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
+    
+    <tr>
+      <th style="text-align: left"><strong>0.8*gulei(F) + 0.2*yinge(F)</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_gulei_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_yinge_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-mix-0628\v3mix_gulei0.8_yinge0.2_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
+  
+</table>
+
+<h3> 男女声混合</h3>
+<table>
+    <thead>
+    <tr>
+      <th style="text-align: left">混合比例</th>
+      <th style="text-align: left">chenqingxin</th>
+      <th style="text-align: left">zhuwen</th>
+      <td style="text-align: left">混合</td>
+    </tr>
+    </thead>
+
+    <tr>
+      <th style="text-align: left"><strong>0.2*chenqingxin(F) + 0.8*eason(F)</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_chenqingxin_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_eason_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-mix-0628\v3mix_chenqingxin0.2_zhuwen0.8_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>0.5*chenqingxin(F) + 0.5*eason(F)</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_chenqingxin_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_eason_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-mix-0628\v3mix_chenqingxin0.5_zhuwen0.5_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>0.8*chenqingxin(F) + 0.2*eason(F)</strong></th>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_chenqingxin_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_eason_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\V3-mix-0628\v3mix_chenqingxin0.8_zhuwen0.2_kouyu.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+</table>
+
+
+
 
   </body>
 </html>
