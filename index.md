@@ -306,72 +306,70 @@ hi,你好！很高兴在这里见到你 <br />
 <h2>V3加上第二期数据结果对比<a name="V3-data"></a></h2>
 
 【文本】<br />
-hi,你好！很高兴在这里见到你 <br />
-没有啊，不是的，我今天刚好去那边玩～<br />
-哈哈哈，是吗？那也太搞笑了吧<br />
-也是因为这样的一段经历呢，让我接下来就有了更多更多的作品<br />
-其实我觉得录专辑就是这样一个旅程,从词曲制作的角度来看的话呢, 我觉得这张专辑呢，对于我以前的作品来说，肯定是有，很大很大的突破的。<br />
-然后所以， 这这几年基本上发的不都是,我想要表达的或者是我想要的<br />
-你好呀，你觉得今天去公园玩怎么样嘛<br />
+哈哈哈哈，真是一群胆小鬼！我们还没到，就已经全跑光了！ <br />
+妹妹们一起玩儿久了，哥哥姐姐也就一起玩儿了嘛！ <br />
+呵呵，额，这您就放心吧，周道先先生，您交代事情我会办不好吗？ <br />
+呃！阿嚏！是的！老艾米，有好几周没见到他了。不过，你可以去问问他的瑜伽导师，我愿意这就带你去找他。<br />
+接通了。嗨！宝贝儿！ <br />
 <br />
 
 <table>
     <thead>
     <tr>
       <th style="text-align: left">Speakers</th>
-      <td style="text-align: left">V2</td>
-      <td style="text-align: left">V3</td>
+      <td style="text-align: left">只用第一期数据</td>
+      <td style="text-align: left">第一期数据+第二期数据</td>
     </tr>
     </thead>
 
     <!--女生-->
     <tr>
       <th style="text-align: left"><strong>una(F)</strong></th>
-      <td style="text-align: left"><audio src="wavs\V2-0626\una.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_una_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\v3-0703-data1\v3mix_una_kouyu-3.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\v3-0703-data2\v3mix_una_kouyu-3.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>chenqingxin(F)</strong></th>
-      <td style="text-align: left"><audio src="wavs\V2-0626\chenqingxin.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_chenqingxin_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\v3-0703-data1\v3mix_chenqingxin_kouyu-3.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\v3-0703-data2\v3mix_chenqingxin_kouyu-3.mp3" controls="" preload=""></audio></td>
     </tr>
 
      <tr>
       <th style="text-align: left"><strong>yequmeng(F)</strong></th>
-      <td style="text-align: left"><audio src="wavs\V2-0626\yequmeng.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_yequmeng_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\v3-0703-data1\v3mix_yequmeng_kouyu-3.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Vv3-0703-data2\v3mix_yequmeng_kouyu-3.mp3" controls="" preload=""></audio></td>
     </tr>
 
      <tr>
       <th style="text-align: left"><strong>zhuwen(F)</strong></th>
-      <td style="text-align: left"><audio src="wavs\V2-0626\zhuwen.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_zhuwen_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\v3-0703-data1\v3mix_zhuwen_kouyu-3.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\v3-0703-data2\v3mix_zhuwen_kouyu-3.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <!--男生-->
     <tr>
       <th style="text-align: left"><strong>zhuhao(M)</strong></th>
-      <td style="text-align: left"><audio src="wavs\V2-0626\zhuhao.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_zhuhao_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\v3-0703-data1\3mix_zhuhao_kouyu-3.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\v3-0703-data2\v3mix_zhuhao_kouyu-3.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>eason(M)</strong></th>
-      <td style="text-align: left"><audio src="wavs\V2-0626\eason.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_eason_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\v3-0703-data1\v3mix_eason_kouyu-3.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\v3-0703-data2\v3mix_eason_kouyu-3.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>yinge(M)</strong></th>
-      <td style="text-align: left"><audio src="wavs\V2-0626\yinge.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_yinge_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\v3-0703-data1\v3mix_yinge_kouyu-3.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\v3-0703-data2\v3mix_yinge_kouyu-3.mp3" controls="" preload=""></audio></td>
     </tr>
     
     <tr>
       <th style="text-align: left"><strong>gulei(M)</strong></th>
-      <td style="text-align: left"><audio src="wavs\V2-0626\gulei.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\V3-0626\v3mix_gulei_kouyu.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\v3-0703-data1\v3mix_gulei_kouyu-3.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\v3-0703-data2\v3mix_gulei_kouyu-3.mp3" controls="" preload=""></audio></td>
     </tr>
     
   
