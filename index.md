@@ -338,7 +338,7 @@ hi,你好！很高兴在这里见到你 <br />
      <tr>
       <th style="text-align: left"><strong>yequmeng(F)</strong></th>
       <td style="text-align: left"><audio src="wavs\v3-0703-data1\v3mix_yequmeng_kouyu-3.mp3" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\Vv3-0703-data2\v3mix_yequmeng_kouyu-3.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\v3-0703-data2\v3mix_yequmeng_kouyu-3.mp3" controls="" preload=""></audio></td>
     </tr>
 
      <tr>
@@ -350,7 +350,7 @@ hi,你好！很高兴在这里见到你 <br />
     <!--男生-->
     <tr>
       <th style="text-align: left"><strong>zhuhao(M)</strong></th>
-      <td style="text-align: left"><audio src="wavs\v3-0703-data1\3mix_zhuhao_kouyu-3.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\v3-0703-data1\v3mix_zhuhao_kouyu-3.mp3" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\v3-0703-data2\v3mix_zhuhao_kouyu-3.mp3" controls="" preload=""></audio></td>
     </tr>
 
