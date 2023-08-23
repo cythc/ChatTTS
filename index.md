@@ -391,55 +391,95 @@ hi,你好！很高兴在这里见到你 <br />
     <!--男生-->
     <tr>
       <th style="text-align: left"><strong>白帝(M)</strong></th>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">埋尸的土坑挖得如何了,怎么这么慢/实况紧急,总要以活着的人为重/通报下去,谁若阻拦,别怪本将不客气/事后将死者的家人们好好安顿转移,大不了给他们一些钱财,尽量别惹出冲突来/他来做什么,本将不是说过任何人都不许放进来吗</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_白帝_baidi.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>李泽言(M)</strong></th>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">复印机这么拍解决不了问题,反倒会损坏部件/就算是老板,破坏公司财务也要赔偿/不是你打电话说晚上出门时太着急,把存储数据的移动硬盘忘在了家里
+      /要我帮帮忙吗
+      /而且我也想知道,是什么状况让某人接完电话就急匆匆赶到公司
+      /现在我又郁闷的站在一堆文件里
+      /心情好点了吗,那就说说吧,遇到什么麻烦</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_李泽言_lizeyan.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>人间行走的冰糖葫芦(M)</strong></th>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">又不穿鞋,忘记上次受凉肚子痛了是不是
+      /别上来,我忙着呢
+      /宝贝啊,别再偷偷穿我衬衫了,好不好
+      /你这个小东西在暗示我什么
+      /好好好,不闹了不闹了,说吧,又想买什么了</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_人间行走的冰糖葫芦_Renjianxingzou.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>A总——霸总(M)</strong></th>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">今天晚上的视频会议取消,改到明天早上九点
+      /好,你们把该做的事儿都做完了,就回去休息吧
+      /今天没有我的允许,谁都不许上二楼
+      /你要是不开门，我现在就叫人把门给拆了</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_A总_Azong.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>猫夜白——霸总(M)</strong></th>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">外面有个喝醉的女人，吵着说要见我？
+      /把人丢出去，不见。
+      /等一下,把门口的监控给我调出来。
+      /怎么是她？把人带到客厅吧！
+      /管家,让人去煮一碗醒酒汤。喝了之后,把他送回家去
+      /现在就从这里出去,我这里不是什么难民收容所
+      /喝醉了,胆子倒是变大了</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_Bazong-Maoyebai_maoyebai.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
-      <th style="text-align: left"><strong>猫夜白——公子音(M)</strong></th>
-      <td style="text-align: left"></td>
+      <th style="text-align: left"><strong>CV知弦——公子音(M)</strong></th>
+      <td style="text-align: left">是本王,又要占本王便宜
+      /出来,丫鬟呢
+      /本王送你这把匕首是用来防身的
+      /本王可警告你,这匕首可是开了刃的</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_CV知弦_CVzhixian.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>kira——青受音(M)</strong></th>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">晚上好啊！在干嘛,还不睡觉？
+      /难道你是想我想的睡不着吗？
+      /说是又不会怎么样！哄我一下都不行。
+      /小气,怎么,我看你最近好像很开心的样子。
+      /因为谈了新男朋友啊？
+      /我哪浪了,我一点都不浪好吧！
+      /我每天按时吃饭,按时睡觉。
+      /倒是你啊！每次放学回来,你都不在家。</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_Qingshou-kira_kira.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>霜月晚——青叔音(M)</strong></th>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">进来,赶紧去把这身衣服给我换了
+      /看什么看！我说话你没听见？
+      /凭什么？凭我是你丈夫！
+      /平时明目张胆的出去玩也就算了,我可以装作视若无睹,怎么这次还想当着我的面去勾三搭四？
+      /不要以为用这种方式我就能早一点放你离开,想都别想!
+      /哪怕少一分钟,你都得乖乖在我身边待着！
+      /当初可是你自己非要嫁给我的！
+      你也最好给我安分守己一点。</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_Qingshu-Shuangyuewan_shuangyuewan.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>siku小鹿——正太音  (M)</strong></th>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">喂,学姐,等一下我，走这么快干嘛？
+      /原来是要去食堂啊。
+      /那我也一起去吃饭。
+      /学姐,吃饭就吃饭。不要东张西望的。
+      /学姐～你有没有听我说话！
+      /你在看哪里呀？
+      /那个学长就是学姐你一直喜欢的那个人咯！</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_Zhengtai-siku小鹿_zhengtai.mp3" controls="" preload=""></audio></td>
     </tr>
     
