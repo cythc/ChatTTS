@@ -597,14 +597,14 @@ hi,你好！很高兴在这里见到你 <br />
 
     <tr>
       <th style="text-align: left"><strong>温柔云朵——温柔姐姐(F)</strong></th>
-      <td style="text-align: left">你怎么在沙发上坐着,等我回家吃饭?
-      /哎呀,抱歉啊！晚上有应酬,忘记告诉你了。
-      /你吃了没？
-      /没吃啊,那你赶紧弄点吃的吧。
-      /对哦,我没有提前跟你说，晚回来这件事情。
-      /我都不知道，他会对这件事情生多大气,然后肯定又是吵架。
-      /我也是有自己的事情的,好吧,怎么能一直陪着他呢。
-      /好,那,晚安,嗯？新男朋友怎么样？
+      <td style="text-align: left">你怎么在沙发上坐着,等我回家吃饭?<br />
+      哎呀,抱歉啊！晚上有应酬,忘记告诉你了。<br />
+      你吃了没？<br />
+      没吃啊,那你赶紧弄点吃的吧。<br />
+      对哦,我没有提前跟你说，晚回来这件事情。<br />
+      我都不知道，他会对这件事情生多大气,然后肯定又是吵架。<br />
+      我也是有自己的事情的,好吧,怎么能一直陪着他呢。<br />
+      好,那,晚安,嗯？新男朋友怎么样？<br />
       </td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_Wenroujiejie-Wenrouyunduo_wenrouyunduo.mp3" controls="" preload=""></audio></td>
     </tr>
