@@ -391,82 +391,86 @@ hi,你好！很高兴在这里见到你 <br />
     <!--男生-->
     <tr>
       <th style="text-align: left"><strong>白帝(M)</strong></th>
-      <td style="text-align: left">埋尸的土坑挖得如何了,怎么这么慢/实况紧急,总要以活着的人为重/通报下去,谁若阻拦,别怪本将不客气/事后将死者的家人们好好安顿转移,大不了给他们一些钱财,尽量别惹出冲突来/他来做什么,本将不是说过任何人都不许放进来吗</td>
+      <td style="text-align: left">埋尸的土坑挖得如何了,怎么这么慢<br />
+      实况紧急,总要以活着的人为重<br />
+      通报下去,谁若阻拦,别怪本将不客气<br />
+      事后将死者的家人们好好安顿转移,大不了给他们一些钱财,尽量别惹出冲突来<br />
+      他来做什么,本将不是说过任何人都不许放进来吗</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_白帝_baidi.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>李泽言(M)</strong></th>
-      <td style="text-align: left">复印机这么拍解决不了问题,反倒会损坏部件/就算是老板,破坏公司财务也要赔偿/不是你打电话说晚上出门时太着急,把存储数据的移动硬盘忘在了家里
-      /要我帮帮忙吗
-      /而且我也想知道,是什么状况让某人接完电话就急匆匆赶到公司
-      /现在我又郁闷的站在一堆文件里
-      /心情好点了吗,那就说说吧,遇到什么麻烦</td>
+      <td style="text-align: left">复印机这么拍解决不了问题,反倒会损坏部件/就算是老板,破坏公司财务也要赔偿/不是你打电话说晚上出门时太着急,把存储数据的移动硬盘忘在了家里<br />
+      要我帮帮忙吗<br />
+      而且我也想知道,是什么状况让某人接完电话就急匆匆赶到公司<br />
+      现在我又郁闷的站在一堆文件里<br />
+      心情好点了吗,那就说说吧,遇到什么麻烦</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_李泽言_lizeyan.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>人间行走的冰糖葫芦(M)</strong></th>
-      <td style="text-align: left">又不穿鞋,忘记上次受凉肚子痛了是不是
-      /别上来,我忙着呢
-      /宝贝啊,别再偷偷穿我衬衫了,好不好
-      /你这个小东西在暗示我什么
-      /好好好,不闹了不闹了,说吧,又想买什么了</td>
+      <td style="text-align: left">又不穿鞋,忘记上次受凉肚子痛了是不是<br />
+      别上来,我忙着呢<br />
+      宝贝啊,别再偷偷穿我衬衫了,好不好<br />
+      你这个小东西在暗示我什么<br />
+      好好好,不闹了不闹了,说吧,又想买什么了</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_人间行走的冰糖葫芦_Renjianxingzou.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>A总——霸总(M)</strong></th>
-      <td style="text-align: left">今天晚上的视频会议取消,改到明天早上九点
-      /好,你们把该做的事儿都做完了,就回去休息吧
-      /今天没有我的允许,谁都不许上二楼
-      /你要是不开门，我现在就叫人把门给拆了</td>
+      <td style="text-align: left">今天晚上的视频会议取消,改到明天早上九点<br />
+      好,你们把该做的事儿都做完了,就回去休息吧<br />
+      今天没有我的允许,谁都不许上二楼<br />
+      你要是不开门，我现在就叫人把门给拆了</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_A总_Azong.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>猫夜白——霸总(M)</strong></th>
-      <td style="text-align: left">外面有个喝醉的女人，吵着说要见我？
-      /把人丢出去，不见。
-      /等一下,把门口的监控给我调出来。
-      /怎么是她？把人带到客厅吧！
-      /管家,让人去煮一碗醒酒汤。喝了之后,把他送回家去
-      /现在就从这里出去,我这里不是什么难民收容所
-      /喝醉了,胆子倒是变大了</td>
+      <td style="text-align: left">外面有个喝醉的女人，吵着说要见我？<br />
+      把人丢出去，不见。<br />
+      等一下,把门口的监控给我调出来。<br />
+      怎么是她？把人带到客厅吧！<br />
+      管家,让人去煮一碗醒酒汤。喝了之后,把他送回家去<br />
+      现在就从这里出去,我这里不是什么难民收容所<br />
+      喝醉了,胆子倒是变大了</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_Bazong-Maoyebai_maoyebai.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>CV知弦——公子音(M)</strong></th>
-      <td style="text-align: left">是本王,又要占本王便宜
-      /出来,丫鬟呢
-      /本王送你这把匕首是用来防身的
-      /本王可警告你,这匕首可是开了刃的</td>
+      <td style="text-align: left">是本王,又要占本王便宜<br />
+      出来,丫鬟呢<br />
+      本王送你这把匕首是用来防身的<br />
+      本王可警告你,这匕首可是开了刃的</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_CV知弦_CVzhixian.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>kira——青受音(M)</strong></th>
-      <td style="text-align: left">晚上好啊！在干嘛,还不睡觉？
-      /难道你是想我想的睡不着吗？
-      /说是又不会怎么样！哄我一下都不行。
-      /小气,怎么,我看你最近好像很开心的样子。
-      /因为谈了新男朋友啊？
-      /我哪浪了,我一点都不浪好吧！
-      /我每天按时吃饭,按时睡觉。
-      /倒是你啊！每次放学回来,你都不在家。</td>
+      <td style="text-align: left">晚上好啊！在干嘛,还不睡觉？<br />
+      难道你是想我想的睡不着吗？<br />
+      说是又不会怎么样！哄我一下都不行。<br />
+      小气,怎么,我看你最近好像很开心的样子。<br />
+      因为谈了新男朋友啊？<br />
+      我哪浪了,我一点都不浪好吧！<br />
+      我每天按时吃饭,按时睡觉。<br />
+      倒是你啊！每次放学回来,你都不在家。</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_Qingshou-kira_kira.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>霜月晚——青叔音(M)</strong></th>
-      <td style="text-align: left">进来,赶紧去把这身衣服给我换了
-      /看什么看！我说话你没听见？
-      /凭什么？凭我是你丈夫！
-      /平时明目张胆的出去玩也就算了,我可以装作视若无睹,怎么这次还想当着我的面去勾三搭四？
-      /不要以为用这种方式我就能早一点放你离开,想都别想!
-      /哪怕少一分钟,你都得乖乖在我身边待着！
-      /当初可是你自己非要嫁给我的！
+      <td style="text-align: left">进来,赶紧去把这身衣服给我换了<br />
+      看什么看！我说话你没听见？<br />
+      凭什么？凭我是你丈夫！<br />
+      平时明目张胆的出去玩也就算了,我可以装作视若无睹,怎么这次还想当着我的面去勾三搭四？<br />
+      不要以为用这种方式我就能早一点放你离开,想都别想!<br />
+      哪怕少一分钟,你都得乖乖在我身边待着！<br />
+      当初可是你自己非要嫁给我的！<br />
       你也最好给我安分守己一点。</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_Qingshu-Shuangyuewan_shuangyuewan.mp3" controls="" preload=""></audio></td>
     </tr>
@@ -474,12 +478,12 @@ hi,你好！很高兴在这里见到你 <br />
     <tr>
       <th style="text-align: left"><strong>siku小鹿——正太音  (M)</strong></th>
       <td style="text-align: left">喂,学姐,等一下我，走这么快干嘛？<br />
-      /原来是要去食堂啊。<br />
-      /那我也一起去吃饭。<br />
-      /学姐,吃饭就吃饭。不要东张西望的。<br />
-      /学姐～你有没有听我说话！<br />
-      /你在看哪里呀？<br />
-      /那个学长就是学姐你一直喜欢的那个人咯！</td>
+      原来是要去食堂啊。<br />
+      那我也一起去吃饭。<br />
+      学姐,吃饭就吃饭。不要东张西望的。<br />
+      学姐～你有没有听我说话！<br />
+      你在看哪里呀？<br />
+      那个学长就是学姐你一直喜欢的那个人咯！</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_Zhengtai-siku小鹿_zhengtai.mp3" controls="" preload=""></audio></td>
     </tr>
     
@@ -488,72 +492,72 @@ hi,你好！很高兴在这里见到你 <br />
     <tr>
       <th style="text-align: left"><strong>千千山(F)</strong></th>
       <td style="text-align: left">先生您,您回来啦<br />
-      /只是,其实您平时都晚上七点才回来,看来今天的工作进行得很顺利<br />
-      /先生,自从被您从黑市买回来以后,我就把这些习惯都改掉了<br />
-      /您知道的,能被先生这样温柔善良的人买走,是我20年来遇到的最幸运的一件事啦<br />
-      /我可不想让先生在忙了一天之后回到家还闻到这令人作呕的味道</td>
+      只是,其实您平时都晚上七点才回来,看来今天的工作进行得很顺利<br />
+      先生,自从被您从黑市买回来以后,我就把这些习惯都改掉了<br />
+      您知道的,能被先生这样温柔善良的人买走,是我20年来遇到的最幸运的一件事啦<br />
+      我可不想让先生在忙了一天之后回到家还闻到这令人作呕的味道</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_千千山_qianqianshan.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>千千山——御姐(F)</strong></th>
       <td style="text-align: left">今天晚上那批货,你就不用去了,我会安排手下的人处理的.<br />
-      /今天是个不错的节日,你说你很喜欢圣诞节的<br />
-      /亲爱的,不如今天就让我们放下家里的那些琐事,做一些,有意思的事情<br />
-      /我们已经两年没有好好过圣诞节了,难得今天能挤出一点时间</td>
+      今天是个不错的节日,你说你很喜欢圣诞节的<br />
+      亲爱的,不如今天就让我们放下家里的那些琐事,做一些,有意思的事情<br />
+      我们已经两年没有好好过圣诞节了,难得今天能挤出一点时间</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_千千山御姐_qianqianshanyujie.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>御姐+病娇(F)</strong></th>
       <td style="text-align: left">们真的没对她做什么多余的事，喂？拿盆刚烧开的热水过来！<br />
-      /怎么，不装睡了？冒险者小哥！<br />
-      /你们先出去。没有我的命令不许进来！<br />
-      /现在只有我们两个人了。<br />
-      /你问我是谁？他们把你敬献给我,难道你还猜不出我是谁吗？<br />
-      /我就是你们口中的怪物！我还是这个族群的王！你们口中的高级魔物。<br />
-      /我们的等级制度可比你们人类的严格得多。<br />
-      /而且王从出生起便是王！</td>
+      怎么，不装睡了？冒险者小哥！<br />
+      你们先出去。没有我的命令不许进来！<br />
+      现在只有我们两个人了。<br />
+      你问我是谁？他们把你敬献给我,难道你还猜不出我是谁吗？<br />
+      我就是你们口中的怪物！我还是这个族群的王！你们口中的高级魔物。<br />
+      我们的等级制度可比你们人类的严格得多。<br />
+      而且王从出生起便是王！</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_Yujie-Bingjiao_bingjiao.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>御姐+撩人(F)</strong></th>
       <td style="text-align: left">今天呀就不必做较早服务了,我都已经起来洗漱好了<br />
-      /最近这么乖呀,好了,今天我要早一点去公司。<br />
-      /等你休息好了，起来想吃什么就告诉我。<br />
-      /我让助理送到家里来，嗯？<br />
-      /对了,之前专门给你定制的新手机,今天就能送到我办公室了。<br />
-      /今天这是怎么了？小嘴儿这么甜。<br />
-      /今晚我应该要参加一个朋友的欢迎会,他刚从国外回来,几个关系好的给他接风洗尘一下。</td>
+      最近这么乖呀,好了,今天我要早一点去公司。<br />
+      等你休息好了，起来想吃什么就告诉我。<br />
+      我让助理送到家里来，嗯？<br />
+      对了,之前专门给你定制的新手机,今天就能送到我办公室了。<br />
+      今天这是怎么了？小嘴儿这么甜。<br />
+      今晚我应该要参加一个朋友的欢迎会,他刚从国外回来,几个关系好的给他接风洗尘一下。</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_YujieLiaoren_liaoren.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>喵系少女——御姐(F)</strong></th>
       <td style="text-align: left">这都写的什么乱七八糟的？看的我眼睛都花了。<br />
-      /要不是被父亲安排了这个差事。我才不想来当什么老师！<br />
-      /看看这字,跟被猫挠了一样！<br />
-      /这张,是我宝贝的卷子<br />
-      /我宝贝的字啊～就是比他们的好看。<br />
-      /不仅是字好看,脸也好看。<br />
-      /不过那小家伙还在跟我生气呢！<br />
-      /得想点主意,好好哄哄<br />
-      /我之前在你这儿定制的东西呢？做好了没？</td>
+      要不是被父亲安排了这个差事。我才不想来当什么老师！<br />
+      看看这字,跟被猫挠了一样！<br />
+      这张,是我宝贝的卷子<br />
+      我宝贝的字啊～就是比他们的好看。<br />
+      不仅是字好看,脸也好看。<br />
+      不过那小家伙还在跟我生气呢！<br />
+      得想点主意,好好哄哄<br />
+      我之前在你这儿定制的东西呢？做好了没？</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_YujieMiaoxishaonv_yujie-miao.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>迷妹小白桑——御姐(F)</strong></th>
       <td style="text-align: left">兔崽子，大晚上不睡觉,在这里手机外放,想挨揍了是吗？<br />
-      /别关,已经把我吵醒了。现在关还有什么意思啊？<br />
-      /来,手机拿来给我看看。<br />
-      /这个音乐有点儿耳熟啊？<br />
-      /没想到啊！大晚上不睡觉在看这种东西啊！<br />
-      /你的胆子,可真是不小呢！<br />
-      /把头蒙起来干什么？敢做不敢当吗？<br />
-      /疼,你看这个的时候就应该会想得到吧！<br />
-      /让你看别的女人，让你手机外放。<br />
+      别关,已经把我吵醒了。现在关还有什么意思啊？<br />
+      来,手机拿来给我看看。<br />
+      这个音乐有点儿耳熟啊？<br />
+      没想到啊！大晚上不睡觉在看这种东西啊！<br />
+      你的胆子,可真是不小呢！<br />
+      把头蒙起来干什么？敢做不敢当吗？<br />
+      疼,你看这个的时候就应该会想得到吧！<br />
+      让你看别的女人，让你手机外放。<br />
       </td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_YujieMimeixiaobaisang_mimei.mp3" controls="" preload=""></audio></td>
     </tr>
@@ -561,37 +565,37 @@ hi,你好！很高兴在这里见到你 <br />
      <tr>
       <th style="text-align: left"><strong>土小豆——呆萌女大学生(F)</strong></th>
       <td style="text-align: left">学长,你真的,有好好的听过吗?<br />
-      /到底是要怎么样才能说出这么令人绝望的答复<br />
-      /难道,难道大家平时说的什么倾国倾城啦,闭月羞花之类的成语，在学长小小的单和处理器里面就没有留下任何记忆吗<br />
-      /学长,你是要成心气死我吗<br />
-      /学长,你知不知道可歌可泣这个词的意思<br />
-      /学长,你真的有好好生活在中国吗</td>
+      到底是要怎么样才能说出这么令人绝望的答复<br />
+      难道,难道大家平时说的什么倾国倾城啦,闭月羞花之类的成语，在学长小小的单和处理器里面就没有留下任何记忆吗<br />
+      学长,你是要成心气死我吗<br />
+      学长,你知不知道可歌可泣这个词的意思<br />
+      学长,你真的有好好生活在中国吗</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_土小豆_tuxiaodou.mp3" controls="" preload=""></audio></td>
     </tr>
 
      <tr>
       <th style="text-align: left"><strong>海盐奶糖白露——萝莉(F)</strong></th>
       <td style="text-align: left">烫烫烫,我看看啊,接下来,打开煎锅,少许油。<br />
-      /这么多应该够了吧？<br />
-      /先试一下好了,油温五成热,大概还要再等一会儿。<br />
-      /喂,你好,啊，主人,我正在做甜点呢。<br />
-      /这次打算尝试一个新的,更有挑战性的,争取比之前做的蛋挞和小饼干还要好吃。<br />
-      /主人,你就等着晚上大饱口福吧！<br />
-      /对了,主人,你打电话回来是有什么吩咐吗？</td>
+      这么多应该够了吧？<br />
+      先试一下好了,油温五成热,大概还要再等一会儿。<br />
+      喂,你好,啊，主人,我正在做甜点呢。<br />
+      这次打算尝试一个新的,更有挑战性的,争取比之前做的蛋挞和小饼干还要好吃。<br />
+      主人,你就等着晚上大饱口福吧！<br />
+      对了,主人,你打电话回来是有什么吩咐吗？</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_Luoli-haiyannaitangbailu_haiyan.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>喵系少女——少女(F)</strong></th>
       <td style="text-align: left">弟弟,弟弟,快起床了弟弟,不是都说好了今天要陪姐姐过五二零的吗？<br />
-      /今天的早餐可是姐姐亲手做的鸡蛋灌饼和小米粥噢。<br />
-      /知道姐姐不会,还不快起床。<br />
-      /你脸红了呢,弟弟,你不会真的。<br />
-      /好了好了,不逗你了。看你那副红着脸狡辩的样子。<br />
-      /不过弟弟如果真的对姐姐有那种想法,也不是不行噢。<br />
-      /吃早餐之前要先洗漱知道吗？<br />
-      /来,弟弟,快尝尝姐姐的手艺。<br />
-      /你姐姐我的手艺,不说开个饭店,开个小摊绰绰有余。</td>
+      今天的早餐可是姐姐亲手做的鸡蛋灌饼和小米粥噢。<br />
+      知道姐姐不会,还不快起床。<br />
+      你脸红了呢,弟弟,你不会真的。<br />
+      好了好了,不逗你了。看你那副红着脸狡辩的样子。<br />
+      不过弟弟如果真的对姐姐有那种想法,也不是不行噢。<br />
+      吃早餐之前要先洗漱知道吗？<br />
+      来,弟弟,快尝尝姐姐的手艺。<br />
+      你姐姐我的手艺,不说开个饭店,开个小摊绰绰有余。</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_ShaonvMiaoxishaonv_shaonv-miao.mp3" controls="" preload=""></audio></td>
     </tr>
 
