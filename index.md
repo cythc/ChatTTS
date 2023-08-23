@@ -15,6 +15,7 @@
   <li><a href="#V3-others">V3其他说话人——只使用第一期数据</a></li>
   <li><a href="#V3-mix">V3捏音色</a></li>
   <li><a href="#V3-data">V3加上第二期数据结果对比</a></li>
+  <li><a href="#P2">第二期音色生成效果</a></li>
 </ol>
 
 <h2>V2 和 V3 对比——只使用第一期数据 （15min/spk）<a name="samples-seen"></a></h2>
@@ -374,6 +375,141 @@ hi,你好！很高兴在这里见到你 <br />
     
   
 </table>
+
+
+<h2>第二期音色生成效果<a name="P2"></a></h2>
+
+<table>
+    <thead>
+    <tr>
+      <th style="text-align: left">Speakers</th>
+      <td style="text-align: left">文本</td>
+      <td style="text-align: left">合成demo</td>
+    </tr>
+    </thead>
+
+    <!--男生-->
+    <tr>
+      <th style="text-align: left"><strong>白帝(M)</strong></th>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"><audio src="wavs\period2-newspeaker\v3mix_白帝_baidi.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>李泽言(M)</strong></th>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"><audio src="wavs\period2-newspeaker\v3mix_李泽言_lizeyan.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>人间行走的冰糖葫芦(M)</strong></th>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"><audio src="wavs\period2-newspeaker\v3mix_人间行走的冰糖葫芦_Renjianxingzou.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>A总——霸总(M)</strong></th>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"><audio src="wavs\period2-newspeaker\v3mix_A总_Azong.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>猫夜白——霸总(M)</strong></th>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"><audio src="wavs\period2-newspeaker\v3mix_Bazong-Maoyebai_maoyebai.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>猫夜白——公子音(M)</strong></th>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"><audio src="wavs\period2-newspeaker\v3mix_CV知弦_CVzhixian.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>kira——青受音(M)</strong></th>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"><audio src="wavs\period2-newspeaker\v3mix_Qingshou-kira_kira.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>霜月晚——青叔音(M)</strong></th>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"><audio src="wavs\period2-newspeaker\v3mix_Qingshu-Shuangyuewan_shuangyuewan.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>siku小鹿——正太音  (M)</strong></th>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"><audio src="wavs\period2-newspeaker\v3mix_Zhengtai-siku小鹿_zhengtai.mp3" controls="" preload=""></audio></td>
+    </tr>
+    
+
+    <!--女生-->
+    <tr>
+      <th style="text-align: left"><strong>千千山(F)</strong></th>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"><audio src="wavs\period2-newspeaker\v3mix_千千山_qianqianshan.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>千千山——御姐(F)</strong></th>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"><audio src="wavs\period2-newspeaker\v3mix_千千山御姐_qianqianshanyujie.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>御姐+病娇(F)</strong></th>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"><audio src="wavs\period2-newspeaker\v3mix_Yujie-Bingjiao_bingjiao.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>御姐+撩人(F)</strong></th>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"><audio src="wavs\period2-newspeaker\v3mix_YujieLiaoren_liaoren.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>喵系少女——御姐(F)</strong></th>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"><audio src="wavs\period2-newspeaker\v3mix_YujieMiaoxishaonv_yujie-miao.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>迷妹小白桑——御姐(F)</strong></th>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"><audio src="wavs\period2-newspeaker\v3mix_YujieMimeixiaobaisang_mimei.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+     <tr>
+      <th style="text-align: left"><strong>土小豆——呆萌女大学生(F)</strong></th>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"><audio src="wavs\period2-newspeaker\v3mix_土小豆_tuxiaodou.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+     <tr>
+      <th style="text-align: left"><strong>海盐奶糖白露——萝莉(F)</strong></th>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"><audio src="wavs\period2-newspeaker\v3mix_Luoli-haiyannaitangbailu_haiyan.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>喵系少女——少女(F)</strong></th>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"><audio src="wavs\period2-newspeaker\v3mix_ShaonvMiaoxishaonv_shaonv-miao.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    <tr>
+      <th style="text-align: left"><strong>温柔云朵——温柔姐姐(F)</strong></th>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"><audio src="wavs\period2-newspeaker\v3mix_Wenroujiejie-Wenrouyunduo_wenrouyunduo.mp3" controls="" preload=""></audio></td>
+    </tr>
+
+    
+
+    
+
+
 
 
 
