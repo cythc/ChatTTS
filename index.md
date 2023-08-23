@@ -571,26 +571,26 @@ hi,你好！很高兴在这里见到你 <br />
 
      <tr>
       <th style="text-align: left"><strong>海盐奶糖白露——萝莉(F)</strong></th>
-      <td style="text-align: left">烫烫烫,我看看啊,接下来,打开煎锅,少许油。
-      /这么多应该够了吧？
-      /先试一下好了,油温五成热,大概还要再等一会儿。
-      /喂,你好,啊，主人,我正在做甜点呢。
-      /这次打算尝试一个新的,更有挑战性的,争取比之前做的蛋挞和小饼干还要好吃。
-      /主人,你就等着晚上大饱口福吧！
+      <td style="text-align: left">烫烫烫,我看看啊,接下来,打开煎锅,少许油。<br />
+      /这么多应该够了吧？<br />
+      /先试一下好了,油温五成热,大概还要再等一会儿。<br />
+      /喂,你好,啊，主人,我正在做甜点呢。<br />
+      /这次打算尝试一个新的,更有挑战性的,争取比之前做的蛋挞和小饼干还要好吃。<br />
+      /主人,你就等着晚上大饱口福吧！<br />
       /对了,主人,你打电话回来是有什么吩咐吗？</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_Luoli-haiyannaitangbailu_haiyan.mp3" controls="" preload=""></audio></td>
     </tr>
 
     <tr>
       <th style="text-align: left"><strong>喵系少女——少女(F)</strong></th>
-      <td style="text-align: left">弟弟,弟弟,快起床了弟弟,不是都说好了今天要陪姐姐过五二零的吗？
-      /今天的早餐可是姐姐亲手做的鸡蛋灌饼和小米粥噢。
-      /知道姐姐不会,还不快起床。
-      /你脸红了呢,弟弟,你不会真的。
-      /好了好了,不逗你了。看你那副红着脸狡辩的样子。
-      /不过弟弟如果真的对姐姐有那种想法,也不是不行噢。
-      /吃早餐之前要先洗漱知道吗？
-      /来,弟弟,快尝尝姐姐的手艺。
+      <td style="text-align: left">弟弟,弟弟,快起床了弟弟,不是都说好了今天要陪姐姐过五二零的吗？<br />
+      /今天的早餐可是姐姐亲手做的鸡蛋灌饼和小米粥噢。<br />
+      /知道姐姐不会,还不快起床。<br />
+      /你脸红了呢,弟弟,你不会真的。<br />
+      /好了好了,不逗你了。看你那副红着脸狡辩的样子。<br />
+      /不过弟弟如果真的对姐姐有那种想法,也不是不行噢。<br />
+      /吃早餐之前要先洗漱知道吗？<br />
+      /来,弟弟,快尝尝姐姐的手艺。<br />
       /你姐姐我的手艺,不说开个饭店,开个小摊绰绰有余。</td>
       <td style="text-align: left"><audio src="wavs\period2_newspeaker\v3mix_ShaonvMiaoxishaonv_shaonv-miao.mp3" controls="" preload=""></audio></td>
     </tr>
